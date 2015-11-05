@@ -1,0 +1,9 @@
+D:\c# zbirka\EF\PartijeCas\PartijeCas\bin\Debug\PartijeCas.exe.config
+D:\c# zbirka\EF\PartijeCas\PartijeCas\bin\Debug\PartijeCas.exe
+D:\c# zbirka\EF\PartijeCas\PartijeCas\bin\Debug\PartijeCas.pdb
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.csprojResolveAssemblyReference.cache
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.Form1.resources
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.Properties.Resources.resources
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.csproj.GenerateResource.Cache
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.exe
+D:\c# zbirka\EF\PartijeCas\PartijeCas\obj\Debug\PartijeCas.pdb
